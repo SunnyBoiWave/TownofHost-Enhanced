@@ -192,7 +192,6 @@ public class Main : BasePlugin
     public static Dictionary<byte, float> VeteranNumOfUsed = [];
     public static Dictionary<byte, long> GrenadierBlinding = [];
     public static Dictionary<byte, long> MadGrenadierBlinding = [];
-    public static float BastionNumberOfAbilityUses = 0;
     public static Dictionary<byte, float> GrenadierNumOfUsed = [];
     public static Dictionary<byte, long> Lighter = [];
     public static Dictionary<byte, float> LighterNumOfUsed = [];
